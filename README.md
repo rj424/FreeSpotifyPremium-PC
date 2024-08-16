@@ -1,15 +1,14 @@
-# FreeSpotifyPremium-PC
-A new program to set your spotify as Premium and have no adds. Requires patch installation
-
 <center>
     <h1 align="center">Lifetime Spotify Premium (PC Only)</h1>
-    <h4 align="center">A multi-purpose adblocker and skip-bypass for the <strong>Windows</strong> Spotify desktop application.
+    <h4 align="center">A multi-purpose adblocker and skip-bypass for the <strong>Windows</strong> Spotify desktop application.</h4>
+    <h5 align="center">Please support Spotify by purchasing premium</h5>
+    <p align="center">
         <strong>Last updated:</strong> 9 August 2024<br>
     </p> 
 </center>
 
 #### Important checks before installing:
-0. Update Windows, update Spotify and update Installer with the patch
+0. Update Windows, update Spotify and update BlockTheSpotify
 1. Go to "Windows Security" -> "Virus & Threat Protection"
 2. Click "Allowed threats" -> "Remove all allowed threats"
 
